@@ -1,0 +1,9 @@
+Package: com.highxp0zure.lumosity2
+Name: Lumosity 2
+Author: HighXp0zure <HighXp0zure@gmail.com>
+Description: Unlocks all levels in Lumosity
+Depends: mobilesubstrate
+Maintainer: HighXp0zure <HighXp0zure@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
